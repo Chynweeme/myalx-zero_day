@@ -1,0 +1,5 @@
+git command lines used:
+add: git add .
+commit: git commit -m"<commit message>"
+push: git push
+pull: git pull
